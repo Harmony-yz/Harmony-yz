@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harmony-yz
 - 👀 I’m interested in learning new things, poetry, music, social justice, and being the best cat mom ever.
-- 🌱 I’m currently learning Python 3 and Django
+- 🌱 I’m currently learning Python 3 
 - 💞️ I’m looking to collaborate on future projects, assigments and co working together.
 - 📫 How to reach me - ortizsanchezhana@outlook.com
 
